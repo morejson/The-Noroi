@@ -1,0 +1,24 @@
+{
+	"id": "kumonue_the-noroi",
+	"name": "The Noroi",
+	"version": "1.0.0",
+	"authors": "teh_Saint",
+	"description": "For my custom Slugcat."
+
+	"requirements": [
+		"watcher",
+		"moreslugcats",
+		"rwremix",
+		"regionkit",
+		"floodwaters_utilities_mini"
+	],
+
+	"requirements_names": [
+		"The Watcher",
+		"More Slugcats Expansion",
+		"RegionKit",
+		"Rain World Remix",
+		"Floodwaters Utilities Mini"
+	],
+		"checksum_override_version": true
+}
