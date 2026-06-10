@@ -1,0 +1,13 @@
+{
+  "id": "slugcat_noroi",
+  "scene_folder": "scenes/slugcat_noroi",
+  "images": [
+    {
+      "name": "slugcat",
+      "pos": [ 0, 0 ],
+      "depth": 0.0,
+      "flatmode": true
+    }
+  ],
+  "idle_depths": [ 2.3, 2.9 ]
+}
