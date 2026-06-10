@@ -1,5 +1,5 @@
 {
-	"id": "kumonue_the-noroi",
+	"id": "kumonue.the-Noroi",
 	"name": "The Noroi",
 	"version": "1.0.0",
 	"authors": "teh_Saint",
@@ -10,7 +10,8 @@
 		"moreslugcats",
 		"rwremix",
 		"regionkit",
-		"floodwaters_utilities_mini"
+		"floodwaters_utilities_mini",
+		"slime-cubed.slugbase"
 	],
 
 	"requirements_names": [
@@ -18,7 +19,8 @@
 		"More Slugcats Expansion",
 		"RegionKit",
 		"Rain World Remix",
-		"Floodwaters Utilities Mini"
+		"Floodwaters Utilities Mini",
+		"SlugBase"
 	],
 
 	"checksum_override_version": true
