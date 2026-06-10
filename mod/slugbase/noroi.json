@@ -7,24 +7,24 @@
     "can_maul": true,
 
     "diet": {
-        "base": "White",
-        "corpses": 0.5,
-        "plants": 1
+      "base": "White",
+      "corpses": 0.5,
+      "plants": 1
+    },
+
+    "color": "FFFFFF",
+    "custom_colors": [
+      {
+        "name": "Body",
+        "story": "3f5247"
       },
+      {
+        "name": "Eyes",
+        "story": "333333"
+      }
+    ],
 
-      "color": "3f5247",
-      "custom_colors": [
-        {
-          "name": "Body",
-          "story": "3f5247"
-        },
-        {
-          "name": "Eyes",
-          "story": "333333"
-        }
-      ],
-
-      "start_room": "SI_S04",
-      "select_menu_scene": "slugcat_noroi"
-    }
+    "start_room": "SI_S04",
+    "select_menu_scene": "slugcat_noroi"
+  }
   }

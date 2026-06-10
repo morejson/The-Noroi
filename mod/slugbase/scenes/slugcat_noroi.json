@@ -4,10 +4,11 @@
   "images": [
     {
       "name": "slugcat",
-      "pos": [ 0, 0 ],
-      "depth": 0.0,
-      "flatmode": true
+      "pos": [ 310, -220 ],
+      "depth": 1.0,
+      "shader": "Basic"
     }
   ],
-  "idle_depths": [ 2.3, 2.9 ]
+  "idle_depths": [ 1 ],
+  "select_menu_pos": [ 0, 100 ]
 }
